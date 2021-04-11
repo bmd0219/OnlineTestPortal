@@ -1,0 +1,15 @@
+{
+  "name": "onlinetestportal",
+  "version": "1.0.0",
+  "description": "Web test portal with proctoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madhavan B",
+  "license": "MIT",
+  "dependencies": {
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5"
+  }
+}
